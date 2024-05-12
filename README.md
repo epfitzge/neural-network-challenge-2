@@ -1,1 +1,2 @@
 # neural-network-challenge-2
+The purpose of this challenge was to use a branched neural network to predict 1. what department an employee works in, and 2. whether they are likely to quit. The exercise used tensor flow neural networks including a multiple output scenario (softmax) and a binary output scenario (sigmoid)
